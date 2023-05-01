@@ -1,6 +1,5 @@
 CONFS		 = opieaccess
 CONFSMODE	 = 600
-OPIE_DIST	?= ${SRCTOP}/opie
 DIST_DIR	 = ${OPIE_DIST}/${.CURDIR:T}
 SHLIB_MAJOR	 = 8
 
